@@ -1,0 +1,159 @@
+[21-Aug-2019 17:59:57 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/radioweb/public_html/creaminas2/includes/funcoes.php on line 184
+[21-Aug-2019 17:59:57 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/radioweb/public_html/creaminas2/includes/funcoes.php on line 185
+[21-Aug-2019 17:59:57 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/radioweb/public_html/creaminas2/includes/funcoes.php on line 195
+[21-Aug-2019 18:00:06 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/radioweb/public_html/creaminas2/includes/funcoes.php on line 184
+[21-Aug-2019 18:00:06 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/radioweb/public_html/creaminas2/includes/funcoes.php on line 185
+[21-Aug-2019 18:00:06 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/radioweb/public_html/creaminas2/includes/funcoes.php on line 195
+[21-Aug-2019 18:00:06 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/radioweb/public_html/creaminas2/admin/playlist/insert.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/radioweb/public_html/creaminas2/admin/playlist/insert.php on line 19
+[21-Aug-2019 18:00:06 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/radioweb/public_html/creaminas2/includes/funcoes.php on line 184
+[21-Aug-2019 18:00:06 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/radioweb/public_html/creaminas2/includes/funcoes.php on line 185
+[21-Aug-2019 18:00:06 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/radioweb/public_html/creaminas2/includes/funcoes.php on line 195
+[21-Aug-2019 18:00:08 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/radioweb/public_html/creaminas2/includes/funcoes.php on line 184
+[21-Aug-2019 18:00:08 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/radioweb/public_html/creaminas2/includes/funcoes.php on line 185
+[21-Aug-2019 18:00:08 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/radioweb/public_html/creaminas2/includes/funcoes.php on line 195
+[21-Aug-2019 18:00:08 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/radioweb/public_html/creaminas2/admin/playlist/delete.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/radioweb/public_html/creaminas2/admin/playlist/delete.php on line 17
+[21-Aug-2019 18:00:08 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/radioweb/public_html/creaminas2/includes/funcoes.php on line 184
+[21-Aug-2019 18:00:08 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/radioweb/public_html/creaminas2/includes/funcoes.php on line 185
+[21-Aug-2019 18:00:08 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/radioweb/public_html/creaminas2/includes/funcoes.php on line 195
+[21-Aug-2019 18:01:57 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/radioweb/public_html/creaminas2/includes/funcoes.php on line 184
+[21-Aug-2019 18:01:57 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/radioweb/public_html/creaminas2/includes/funcoes.php on line 185
+[21-Aug-2019 18:01:57 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/radioweb/public_html/creaminas2/includes/funcoes.php on line 195
+[21-Aug-2019 18:15:59 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/radioweb/public_html/creaminas2/includes/funcoes.php on line 184
+[21-Aug-2019 18:15:59 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/radioweb/public_html/creaminas2/includes/funcoes.php on line 185
+[21-Aug-2019 18:15:59 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/radioweb/public_html/creaminas2/includes/funcoes.php on line 195
+[21-Aug-2019 18:16:15 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/radioweb/public_html/creaminas2/includes/funcoes.php on line 184
+[21-Aug-2019 18:16:15 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/radioweb/public_html/creaminas2/includes/funcoes.php on line 185
+[21-Aug-2019 18:16:15 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/radioweb/public_html/creaminas2/includes/funcoes.php on line 195
+[10-Sep-2019 11:53:09 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/radioweb/public_html/podcasts/includes/funcoes.php on line 184
+[10-Sep-2019 11:53:10 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/radioweb/public_html/podcasts/includes/funcoes.php on line 185
+[10-Sep-2019 11:53:10 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/radioweb/public_html/podcasts/includes/funcoes.php on line 195
+[12-Sep-2019 15:59:46 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/radiopuma/public_html/radio/includes/funcoes.php on line 184
+[12-Sep-2019 15:59:46 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/radiopuma/public_html/radio/includes/funcoes.php on line 185
+[12-Sep-2019 15:59:46 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/radiopuma/public_html/radio/includes/funcoes.php on line 195
+[12-Sep-2019 16:00:22 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/radiopuma/public_html/radio/includes/funcoes.php on line 184
+[12-Sep-2019 16:00:22 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/radiopuma/public_html/radio/includes/funcoes.php on line 185
+[12-Sep-2019 16:00:22 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/radiopuma/public_html/radio/includes/funcoes.php on line 195
+[12-Sep-2019 16:00:22 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/radiopuma/public_html/radio/admin/playlist/insert.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/radiopuma/public_html/radio/admin/playlist/insert.php on line 19
+[12-Sep-2019 16:00:22 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/radiopuma/public_html/radio/includes/funcoes.php on line 184
+[12-Sep-2019 16:00:22 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/radiopuma/public_html/radio/includes/funcoes.php on line 185
+[12-Sep-2019 16:00:22 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/radiopuma/public_html/radio/includes/funcoes.php on line 195
+[12-Sep-2019 16:00:46 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/radiopuma/public_html/radio/includes/funcoes.php on line 184
+[12-Sep-2019 16:00:46 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/radiopuma/public_html/radio/includes/funcoes.php on line 185
+[12-Sep-2019 16:00:46 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/radiopuma/public_html/radio/includes/funcoes.php on line 195
+[12-Sep-2019 16:00:46 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/radiopuma/public_html/radio/admin/playlist/insert.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/radiopuma/public_html/radio/admin/playlist/insert.php on line 19
+[12-Sep-2019 16:00:47 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/radiopuma/public_html/radio/includes/funcoes.php on line 184
+[12-Sep-2019 16:00:47 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/radiopuma/public_html/radio/includes/funcoes.php on line 185
+[12-Sep-2019 16:00:47 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/radiopuma/public_html/radio/includes/funcoes.php on line 195
+[12-Sep-2019 16:01:23 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/radiopuma/public_html/radio/includes/funcoes.php on line 184
+[12-Sep-2019 16:01:23 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/radiopuma/public_html/radio/includes/funcoes.php on line 185
+[12-Sep-2019 16:01:23 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/radiopuma/public_html/radio/includes/funcoes.php on line 195
+[12-Sep-2019 16:01:23 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/radiopuma/public_html/radio/admin/playlist/insert.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/radiopuma/public_html/radio/admin/playlist/insert.php on line 19
+[12-Sep-2019 16:01:23 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/radiopuma/public_html/radio/includes/funcoes.php on line 184
+[12-Sep-2019 16:01:23 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/radiopuma/public_html/radio/includes/funcoes.php on line 185
+[12-Sep-2019 16:01:23 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/radiopuma/public_html/radio/includes/funcoes.php on line 195
+[12-Sep-2019 16:01:50 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/radiopuma/public_html/radio/includes/funcoes.php on line 184
+[12-Sep-2019 16:01:50 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/radiopuma/public_html/radio/includes/funcoes.php on line 185
+[12-Sep-2019 16:01:50 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/radiopuma/public_html/radio/includes/funcoes.php on line 195
+[12-Sep-2019 16:01:50 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/radiopuma/public_html/radio/admin/playlist/insert.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/radiopuma/public_html/radio/admin/playlist/insert.php on line 19
+[12-Sep-2019 16:01:50 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/radiopuma/public_html/radio/includes/funcoes.php on line 184
+[12-Sep-2019 16:01:50 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/radiopuma/public_html/radio/includes/funcoes.php on line 185
+[12-Sep-2019 16:01:50 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/radiopuma/public_html/radio/includes/funcoes.php on line 195
+[16-Sep-2019 10:43:25 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/radiopuma/public_html/radio/includes/funcoes.php on line 184
+[16-Sep-2019 10:43:25 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/radiopuma/public_html/radio/includes/funcoes.php on line 185
+[16-Sep-2019 10:43:25 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/radiopuma/public_html/radio/includes/funcoes.php on line 195
+[16-Sep-2019 10:44:02 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/radiopuma/public_html/radio/includes/funcoes.php on line 184
+[16-Sep-2019 10:44:02 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/radiopuma/public_html/radio/includes/funcoes.php on line 185
+[16-Sep-2019 10:44:02 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/radiopuma/public_html/radio/includes/funcoes.php on line 195
+[16-Sep-2019 10:44:02 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/radiopuma/public_html/radio/admin/playlist/alt.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/radiopuma/public_html/radio/admin/playlist/alt.php on line 22
+[16-Sep-2019 10:44:02 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/radiopuma/public_html/radio/includes/funcoes.php on line 184
+[16-Sep-2019 10:44:02 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/radiopuma/public_html/radio/includes/funcoes.php on line 185
+[16-Sep-2019 10:44:02 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/radiopuma/public_html/radio/includes/funcoes.php on line 195
+[16-Sep-2019 10:47:39 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/radiopuma/public_html/radio/includes/funcoes.php on line 184
+[16-Sep-2019 10:47:39 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/radiopuma/public_html/radio/includes/funcoes.php on line 185
+[16-Sep-2019 10:47:39 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/radiopuma/public_html/radio/includes/funcoes.php on line 195
+[16-Sep-2019 10:47:53 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/radiopuma/public_html/radio/includes/funcoes.php on line 184
+[16-Sep-2019 10:47:53 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/radiopuma/public_html/radio/includes/funcoes.php on line 185
+[16-Sep-2019 10:47:53 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/radiopuma/public_html/radio/includes/funcoes.php on line 195
+[16-Sep-2019 10:47:53 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/radiopuma/public_html/radio/admin/playlist/insert.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/radiopuma/public_html/radio/admin/playlist/insert.php on line 19
+[16-Sep-2019 10:47:53 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/radiopuma/public_html/radio/includes/funcoes.php on line 184
+[16-Sep-2019 10:47:53 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/radiopuma/public_html/radio/includes/funcoes.php on line 185
+[16-Sep-2019 10:47:53 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/radiopuma/public_html/radio/includes/funcoes.php on line 195
+[16-Sep-2019 11:42:28 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/radiopuma/public_html/radio/includes/funcoes.php on line 184
+[16-Sep-2019 11:42:28 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/radiopuma/public_html/radio/includes/funcoes.php on line 185
+[16-Sep-2019 11:42:28 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/radiopuma/public_html/radio/includes/funcoes.php on line 195
+[16-Sep-2019 11:43:45 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/radiopuma/public_html/radio/includes/funcoes.php on line 184
+[16-Sep-2019 11:43:45 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/radiopuma/public_html/radio/includes/funcoes.php on line 185
+[16-Sep-2019 11:43:45 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/radiopuma/public_html/radio/includes/funcoes.php on line 195
+[16-Sep-2019 11:43:51 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/radiopuma/public_html/radio/includes/funcoes.php on line 184
+[16-Sep-2019 11:43:51 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/radiopuma/public_html/radio/includes/funcoes.php on line 185
+[16-Sep-2019 11:43:51 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/radiopuma/public_html/radio/includes/funcoes.php on line 195
+[16-Sep-2019 11:53:55 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/radiopuma/public_html/radio/includes/funcoes.php on line 184
+[16-Sep-2019 11:53:55 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/radiopuma/public_html/radio/includes/funcoes.php on line 185
+[16-Sep-2019 11:53:55 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/radiopuma/public_html/radio/includes/funcoes.php on line 195
+[16-Sep-2019 11:54:05 America/Sao_Paulo] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/radiopuma/public_html/radio/includes/funcoes.php on line 184
+[16-Sep-2019 11:54:05 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/radiopuma/public_html/radio/includes/funcoes.php on line 185
+[16-Sep-2019 11:54:05 America/Sao_Paulo] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/radiopuma/public_html/radio/includes/funcoes.php on line 195
+[16-Sep-2019 11:56:36 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/radiopuma/public_html/radio/admin/playlist/alt.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/radiopuma/public_html/radio/admin/playlist/alt.php on line 22
+[16-Sep-2019 11:56:45 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/radiopuma/public_html/radio/admin/playlist/alt.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/radiopuma/public_html/radio/admin/playlist/alt.php on line 22
+[16-Sep-2019 11:58:04 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/radiopuma/public_html/radio/admin/playlist/insert.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/radiopuma/public_html/radio/admin/playlist/insert.php on line 19
+[16-Sep-2019 11:58:14 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/radiopuma/public_html/radio/admin/playlist/delete.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/radiopuma/public_html/radio/admin/playlist/delete.php on line 17
+[16-Sep-2019 14:53:54 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/radiopuma/public_html/radio/admin/playlist/alt.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/radiopuma/public_html/radio/admin/playlist/alt.php on line 22
+[16-Sep-2019 14:54:02 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/radiopuma/public_html/radio/admin/playlist/alt.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/radiopuma/public_html/radio/admin/playlist/alt.php on line 22
+[16-Sep-2019 14:54:13 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/radiopuma/public_html/radio/admin/playlist/alt.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/radiopuma/public_html/radio/admin/playlist/alt.php on line 22
+[16-Sep-2019 14:54:22 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/radiopuma/public_html/radio/admin/playlist/alt.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/radiopuma/public_html/radio/admin/playlist/alt.php on line 22
+[16-Sep-2019 14:54:33 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/radiopuma/public_html/radio/admin/playlist/alt.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/radiopuma/public_html/radio/admin/playlist/alt.php on line 22
+[17-Sep-2019 10:29:15 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/radiopuma/public_html/radio/admin/playlist/alt.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/radiopuma/public_html/radio/admin/playlist/alt.php on line 22

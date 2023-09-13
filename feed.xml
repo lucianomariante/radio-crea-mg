@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+xmlns:content="http://purl.org/rss/1.0/modules/content/"
+xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:atom="http://www.w3.org/2005/Atom"
+xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+xmlns:media="http://search.yahoo.com/mrss/">
+	<channel>
+		<itunes:category text="Games &amp; Hobbies"/>
+		<itunes:category text="TV &amp; Film"/>
+		<itunes:category text="Society &amp; Culture"/>
+		<itunes:category text="Category"/>
+		<itunes:category text="Category"/>
+		<itunes:explicit>No</itunes:explicit>
+		<itunes:keywords>teste</itunes:summary>
+		<itunes:subtitle>teste</itunes:subtitle>
+		<itunes:author>gustavo zaro</itunes:author>
+		<itunes:image href="http://podcasts.agenciaradioweb.com.br/extras/cozinhas.png"/>
+		<webMaster>gustavo@agenciaradioweb.com.br (Radioweb)</webMaster>
+		<managingEditor>gustavo@agenciaradioweb.com.br (Radioweb)</managingEditor>
+		<copyright>Copyright @ 2011-2014 Radioweb</copyright>
+		<language>pt-br</language>
+		<title>podcast radioweb</title>
+		<link>http://podcasts.agenciaradioweb.com.br/</link>
+		<description>Testando criado em 2019</description>
+		<pubDate>Sun, 02 Sep 2012 00:01:00 -0300</pubDate>
+		<image>
+			<title>podcast radioweb</title>
+			<link>http://podcasts.agenciaradioweb.com.br/</link>
+			<url>http://podcasts.agenciaradioweb.com.br/extras/cozinhas.png</url>
+		</image>
+		<item>
+			<author>gustavo</author>
+			<title>After Forever</title>
+			<description>testando som</description>
+			<link>http://podcasts.agenciaradioweb.com.br/audios/190808092127181217113134Gotas_201_O_fluxo_do_dinheiro_em_sua_vida.mp3</link>
+			<pubDate>Wed, 30 Jan 2013 20:00:00 -0300</pubDate>
+			<itunes:duration>1:03:04</itunes:duration>
+			<itunes:keywords>testando, teste, outra</itunes:keywords>
+			<itunes:subtitle>teste</itunes:subtitle>
+			<itunes:summary>teste</itunes:summary>
+			<itunes:author>gustavo@agenciaradioweb.com.br</itunes:author>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:block>no</itunes:block>
+			<enclosure url="http://podcasts.agenciaradioweb.com.br/audios/190808092127181217113134Gotas_201_O_fluxo_do_dinheiro_em_sua_vida.mp3" length="45570169" type="audio/mpeg"/>
+		</item>
+	</channel>
+</rss>

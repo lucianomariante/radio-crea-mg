@@ -1,0 +1,84 @@
+body {
+	background-color:#fff;
+}
+
+#logotipo {
+	width:300px;
+	left:50%;
+	margin-left:-150px;
+	position:relative;
+	margin-bottom:30px;		
+}
+
+#info_podcast {
+	-webkit-border-radius: 6px; -moz-border-radius: 6px; border-radius: 6px;
+	background-color:#F07C00;
+	padding:20px;
+	width:600px;
+	left:50%;
+	margin-left:-300px;
+	position:relative;
+	margin-bottom:30px;
+	text-align:center;
+	font-family:Arial, Gotham, "Helvetica Neue", Helvetica, sans-serif;
+	color:#fff;
+	padding-bottom:81px;
+}
+
+#audio {
+	-webkit-border-radius: 6px; -moz-border-radius: 6px; border-radius: 6px;
+	background-color:#F1F3F4;
+	padding:20px;
+	width:600px;
+	left:50%;
+	margin-left:-300px;
+	position:relative;
+	margin-bottom:30px;
+	text-align:center;
+	
+}
+
+#spotify {
+	width:150px;
+	height:61px;
+	left:50%;
+	margin-left:-75px;
+	position:absolute;
+	background-image:url(spotify.png);
+	text-indent:-10000px;
+	margin-top:10px;
+}
+
+
+#item_podcast {
+	-webkit-border-radius: 6px; -moz-border-radius: 6px; border-radius: 6px;
+	background-color:#eee;
+	padding:20px;
+	width:600px;
+	left:50%;
+	margin-left:-300px;
+	position:relative;
+	margin-bottom:15px;
+	font-family:Arial, Gotham, "Helvetica Neue", Helvetica, sans-serif;
+	color:#000;
+}
+
+.ouvir {
+	position:absolute;
+	width:48px;
+	height:48px;
+	text-indent:-100000px;
+	background-image:url(podcast_play.png);
+	left:575px;
+	top:13px;
+}
+
+.pausar {
+	position:absolute;
+	width:48px;
+	height:48px;
+	text-indent:-100000px;
+	background-image:url(podcast_pause.png);
+	left:515px;
+	top:13px;
+}

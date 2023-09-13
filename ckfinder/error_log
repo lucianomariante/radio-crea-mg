@@ -1,0 +1,163 @@
+[25-Nov-2016 13:56:28 America/Sao_Paulo] PHP Fatal error:  Call to undefined function resolveUrl() in /home/tematica/public_html/web/ckfinder/config.php on line 83
+[25-Nov-2016 13:56:31 America/Sao_Paulo] PHP Fatal error:  Call to undefined function resolveUrl() in /home/tematica/public_html/web/ckfinder/config.php on line 83
+[22-Sep-2017 01:08:24 America/Sao_Paulo] PHP Deprecated:  Directive 'register_globals' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[22-Sep-2017 01:08:24 America/Sao_Paulo] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[22-Sep-2017 01:08:26 America/Sao_Paulo] PHP Deprecated:  Directive 'register_globals' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[22-Sep-2017 01:08:26 America/Sao_Paulo] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[22-Sep-2017 01:08:28 America/Sao_Paulo] PHP Deprecated:  Directive 'register_globals' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[22-Sep-2017 01:08:28 America/Sao_Paulo] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[22-Sep-2017 01:08:31 America/Sao_Paulo] PHP Deprecated:  Directive 'register_globals' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[22-Sep-2017 01:08:31 America/Sao_Paulo] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[22-Sep-2017 01:08:33 America/Sao_Paulo] PHP Deprecated:  Directive 'register_globals' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[22-Sep-2017 01:08:33 America/Sao_Paulo] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[22-Sep-2017 01:08:36 America/Sao_Paulo] PHP Deprecated:  Directive 'register_globals' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[22-Sep-2017 01:08:36 America/Sao_Paulo] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[22-Sep-2017 01:08:39 America/Sao_Paulo] PHP Deprecated:  Directive 'register_globals' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[22-Sep-2017 01:08:39 America/Sao_Paulo] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[22-Sep-2017 01:08:45 America/Sao_Paulo] PHP Deprecated:  Directive 'register_globals' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[22-Sep-2017 01:08:45 America/Sao_Paulo] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[22-Sep-2017 01:08:45 America/Sao_Paulo] PHP Fatal error:  Call to undefined function resolveUrl() in /home/tematica/public_html/web/ckfinder/config.php on line 83
+[22-Sep-2017 01:08:45 America/Sao_Paulo] PHP Deprecated:  Directive 'register_globals' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[22-Sep-2017 01:08:45 America/Sao_Paulo] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[22-Sep-2017 01:08:45 America/Sao_Paulo] PHP Fatal error:  Call to undefined function resolveUrl() in /home/tematica/public_html/web/ckfinder/config.php on line 83
+[22-Sep-2017 01:08:48 America/Sao_Paulo] PHP Deprecated:  Directive 'register_globals' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[22-Sep-2017 01:08:48 America/Sao_Paulo] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[22-Sep-2017 01:08:48 America/Sao_Paulo] PHP Fatal error:  Call to undefined function resolveUrl() in /home/tematica/public_html/web/ckfinder/config.php on line 83
+[22-Sep-2017 01:08:50 America/Sao_Paulo] PHP Deprecated:  Directive 'register_globals' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[22-Sep-2017 01:08:50 America/Sao_Paulo] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[22-Sep-2017 01:08:50 America/Sao_Paulo] PHP Fatal error:  Call to undefined function resolveUrl() in /home/tematica/public_html/web/ckfinder/config.php on line 83
+[21-Oct-2017 06:50:02 America/Sao_Paulo] PHP Deprecated:  Directive 'register_globals' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[21-Oct-2017 06:50:02 America/Sao_Paulo] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[21-Oct-2017 06:50:04 America/Sao_Paulo] PHP Deprecated:  Directive 'register_globals' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[21-Oct-2017 06:50:04 America/Sao_Paulo] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[21-Oct-2017 06:50:06 America/Sao_Paulo] PHP Deprecated:  Directive 'register_globals' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[21-Oct-2017 06:50:06 America/Sao_Paulo] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[21-Oct-2017 06:50:09 America/Sao_Paulo] PHP Deprecated:  Directive 'register_globals' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[21-Oct-2017 06:50:09 America/Sao_Paulo] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[21-Oct-2017 06:50:11 America/Sao_Paulo] PHP Deprecated:  Directive 'register_globals' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[21-Oct-2017 06:50:11 America/Sao_Paulo] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[21-Oct-2017 06:50:13 America/Sao_Paulo] PHP Deprecated:  Directive 'register_globals' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[21-Oct-2017 06:50:13 America/Sao_Paulo] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[21-Oct-2017 06:50:16 America/Sao_Paulo] PHP Deprecated:  Directive 'register_globals' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[21-Oct-2017 06:50:16 America/Sao_Paulo] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[21-Oct-2017 06:50:21 America/Sao_Paulo] PHP Deprecated:  Directive 'register_globals' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[21-Oct-2017 06:50:21 America/Sao_Paulo] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[21-Oct-2017 06:50:21 America/Sao_Paulo] PHP Fatal error:  Call to undefined function resolveUrl() in /home/tematica/public_html/web/ckfinder/config.php on line 83
+[21-Oct-2017 06:50:22 America/Sao_Paulo] PHP Deprecated:  Directive 'register_globals' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[21-Oct-2017 06:50:22 America/Sao_Paulo] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[21-Oct-2017 06:50:22 America/Sao_Paulo] PHP Fatal error:  Call to undefined function resolveUrl() in /home/tematica/public_html/web/ckfinder/config.php on line 83
+[21-Oct-2017 06:50:24 America/Sao_Paulo] PHP Deprecated:  Directive 'register_globals' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[21-Oct-2017 06:50:24 America/Sao_Paulo] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[21-Oct-2017 06:50:24 America/Sao_Paulo] PHP Fatal error:  Call to undefined function resolveUrl() in /home/tematica/public_html/web/ckfinder/config.php on line 83
+[21-Oct-2017 06:50:27 America/Sao_Paulo] PHP Deprecated:  Directive 'register_globals' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[21-Oct-2017 06:50:27 America/Sao_Paulo] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[21-Oct-2017 06:50:27 America/Sao_Paulo] PHP Fatal error:  Call to undefined function resolveUrl() in /home/tematica/public_html/web/ckfinder/config.php on line 83
+[26-Dec-2017 21:14:37 America/Sao_Paulo] PHP Deprecated:  Directive 'register_globals' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[26-Dec-2017 21:14:37 America/Sao_Paulo] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[26-Dec-2017 21:14:40 America/Sao_Paulo] PHP Deprecated:  Directive 'register_globals' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[26-Dec-2017 21:14:40 America/Sao_Paulo] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[26-Dec-2017 21:14:44 America/Sao_Paulo] PHP Deprecated:  Directive 'register_globals' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[26-Dec-2017 21:14:44 America/Sao_Paulo] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[26-Dec-2017 21:14:47 America/Sao_Paulo] PHP Deprecated:  Directive 'register_globals' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[26-Dec-2017 21:14:47 America/Sao_Paulo] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[26-Dec-2017 21:14:49 America/Sao_Paulo] PHP Deprecated:  Directive 'register_globals' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[26-Dec-2017 21:14:49 America/Sao_Paulo] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[26-Dec-2017 21:14:52 America/Sao_Paulo] PHP Deprecated:  Directive 'register_globals' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[26-Dec-2017 21:14:52 America/Sao_Paulo] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[26-Dec-2017 21:14:55 America/Sao_Paulo] PHP Deprecated:  Directive 'register_globals' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[26-Dec-2017 21:14:55 America/Sao_Paulo] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[26-Dec-2017 21:15:03 America/Sao_Paulo] PHP Deprecated:  Directive 'register_globals' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[26-Dec-2017 21:15:03 America/Sao_Paulo] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[26-Dec-2017 21:15:03 America/Sao_Paulo] PHP Fatal error:  Call to undefined function resolveUrl() in /home/tematica/public_html/web/ckfinder/config.php on line 83
+[26-Dec-2017 21:15:03 America/Sao_Paulo] PHP Deprecated:  Directive 'register_globals' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[26-Dec-2017 21:15:03 America/Sao_Paulo] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[26-Dec-2017 21:15:03 America/Sao_Paulo] PHP Fatal error:  Call to undefined function resolveUrl() in /home/tematica/public_html/web/ckfinder/config.php on line 83
+[26-Dec-2017 21:15:06 America/Sao_Paulo] PHP Deprecated:  Directive 'register_globals' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[26-Dec-2017 21:15:06 America/Sao_Paulo] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[26-Dec-2017 21:15:06 America/Sao_Paulo] PHP Fatal error:  Call to undefined function resolveUrl() in /home/tematica/public_html/web/ckfinder/config.php on line 83
+[26-Dec-2017 21:15:09 America/Sao_Paulo] PHP Deprecated:  Directive 'register_globals' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[26-Dec-2017 21:15:09 America/Sao_Paulo] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[26-Dec-2017 21:15:09 America/Sao_Paulo] PHP Fatal error:  Call to undefined function resolveUrl() in /home/tematica/public_html/web/ckfinder/config.php on line 83
+[01-Feb-2018 04:19:04 America/Sao_Paulo] PHP Deprecated:  Directive 'register_globals' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[01-Feb-2018 04:19:04 America/Sao_Paulo] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[01-Feb-2018 04:19:06 America/Sao_Paulo] PHP Deprecated:  Directive 'register_globals' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[01-Feb-2018 04:19:06 America/Sao_Paulo] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[01-Feb-2018 04:19:09 America/Sao_Paulo] PHP Deprecated:  Directive 'register_globals' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[01-Feb-2018 04:19:09 America/Sao_Paulo] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[01-Feb-2018 04:19:11 America/Sao_Paulo] PHP Deprecated:  Directive 'register_globals' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[01-Feb-2018 04:19:11 America/Sao_Paulo] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[01-Feb-2018 04:19:13 America/Sao_Paulo] PHP Deprecated:  Directive 'register_globals' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[01-Feb-2018 04:19:13 America/Sao_Paulo] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[01-Feb-2018 04:19:16 America/Sao_Paulo] PHP Deprecated:  Directive 'register_globals' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[01-Feb-2018 04:19:16 America/Sao_Paulo] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[01-Feb-2018 04:19:18 America/Sao_Paulo] PHP Deprecated:  Directive 'register_globals' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[01-Feb-2018 04:19:18 America/Sao_Paulo] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[01-Feb-2018 04:19:24 America/Sao_Paulo] PHP Deprecated:  Directive 'register_globals' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[01-Feb-2018 04:19:24 America/Sao_Paulo] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[01-Feb-2018 04:19:24 America/Sao_Paulo] PHP Fatal error:  Call to undefined function resolveUrl() in /home/tematica/public_html/web/ckfinder/config.php on line 83
+[01-Feb-2018 04:19:24 America/Sao_Paulo] PHP Deprecated:  Directive 'register_globals' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[01-Feb-2018 04:19:24 America/Sao_Paulo] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[01-Feb-2018 04:19:24 America/Sao_Paulo] PHP Fatal error:  Call to undefined function resolveUrl() in /home/tematica/public_html/web/ckfinder/config.php on line 83
+[01-Feb-2018 04:19:26 America/Sao_Paulo] PHP Deprecated:  Directive 'register_globals' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[01-Feb-2018 04:19:26 America/Sao_Paulo] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[01-Feb-2018 04:19:26 America/Sao_Paulo] PHP Fatal error:  Call to undefined function resolveUrl() in /home/tematica/public_html/web/ckfinder/config.php on line 83
+[01-Feb-2018 04:19:29 America/Sao_Paulo] PHP Deprecated:  Directive 'register_globals' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[01-Feb-2018 04:19:29 America/Sao_Paulo] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[01-Feb-2018 04:19:29 America/Sao_Paulo] PHP Fatal error:  Call to undefined function resolveUrl() in /home/tematica/public_html/web/ckfinder/config.php on line 83
+[03-Mar-2018 04:11:09 America/Sao_Paulo] PHP Deprecated:  Directive 'register_globals' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[03-Mar-2018 04:11:09 America/Sao_Paulo] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[03-Mar-2018 04:11:11 America/Sao_Paulo] PHP Deprecated:  Directive 'register_globals' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[03-Mar-2018 04:11:11 America/Sao_Paulo] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[03-Mar-2018 04:11:13 America/Sao_Paulo] PHP Deprecated:  Directive 'register_globals' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[03-Mar-2018 04:11:13 America/Sao_Paulo] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[03-Mar-2018 04:11:16 America/Sao_Paulo] PHP Deprecated:  Directive 'register_globals' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[03-Mar-2018 04:11:16 America/Sao_Paulo] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[03-Mar-2018 04:11:18 America/Sao_Paulo] PHP Deprecated:  Directive 'register_globals' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[03-Mar-2018 04:11:18 America/Sao_Paulo] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[03-Mar-2018 04:11:21 America/Sao_Paulo] PHP Deprecated:  Directive 'register_globals' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[03-Mar-2018 04:11:21 America/Sao_Paulo] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[03-Mar-2018 04:11:23 America/Sao_Paulo] PHP Deprecated:  Directive 'register_globals' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[03-Mar-2018 04:11:23 America/Sao_Paulo] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[03-Mar-2018 04:11:28 America/Sao_Paulo] PHP Deprecated:  Directive 'register_globals' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[03-Mar-2018 04:11:28 America/Sao_Paulo] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[03-Mar-2018 04:11:28 America/Sao_Paulo] PHP Fatal error:  Call to undefined function resolveUrl() in /home/tematica/public_html/web/ckfinder/config.php on line 83
+[03-Mar-2018 04:11:29 America/Sao_Paulo] PHP Deprecated:  Directive 'register_globals' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[03-Mar-2018 04:11:29 America/Sao_Paulo] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[03-Mar-2018 04:11:29 America/Sao_Paulo] PHP Fatal error:  Call to undefined function resolveUrl() in /home/tematica/public_html/web/ckfinder/config.php on line 83
+[03-Mar-2018 04:11:31 America/Sao_Paulo] PHP Deprecated:  Directive 'register_globals' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[03-Mar-2018 04:11:31 America/Sao_Paulo] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[03-Mar-2018 04:11:31 America/Sao_Paulo] PHP Fatal error:  Call to undefined function resolveUrl() in /home/tematica/public_html/web/ckfinder/config.php on line 83
+[03-Mar-2018 04:11:34 America/Sao_Paulo] PHP Deprecated:  Directive 'register_globals' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[03-Mar-2018 04:11:34 America/Sao_Paulo] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[03-Mar-2018 04:11:34 America/Sao_Paulo] PHP Fatal error:  Call to undefined function resolveUrl() in /home/tematica/public_html/web/ckfinder/config.php on line 83
+[08-Apr-2018 09:19:50 America/Sao_Paulo] PHP Deprecated:  Directive 'register_globals' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[08-Apr-2018 09:19:50 America/Sao_Paulo] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[08-Apr-2018 09:19:52 America/Sao_Paulo] PHP Deprecated:  Directive 'register_globals' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[08-Apr-2018 09:19:52 America/Sao_Paulo] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[08-Apr-2018 09:19:54 America/Sao_Paulo] PHP Deprecated:  Directive 'register_globals' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[08-Apr-2018 09:19:54 America/Sao_Paulo] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[08-Apr-2018 09:19:57 America/Sao_Paulo] PHP Deprecated:  Directive 'register_globals' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[08-Apr-2018 09:19:57 America/Sao_Paulo] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[08-Apr-2018 09:19:59 America/Sao_Paulo] PHP Deprecated:  Directive 'register_globals' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[08-Apr-2018 09:19:59 America/Sao_Paulo] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[08-Apr-2018 09:20:01 America/Sao_Paulo] PHP Deprecated:  Directive 'register_globals' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[08-Apr-2018 09:20:01 America/Sao_Paulo] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[08-Apr-2018 09:20:04 America/Sao_Paulo] PHP Deprecated:  Directive 'register_globals' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[08-Apr-2018 09:20:04 America/Sao_Paulo] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[08-Apr-2018 09:20:09 America/Sao_Paulo] PHP Deprecated:  Directive 'register_globals' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[08-Apr-2018 09:20:09 America/Sao_Paulo] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[08-Apr-2018 09:20:09 America/Sao_Paulo] PHP Fatal error:  Call to undefined function resolveUrl() in /home/tematica/public_html/web/ckfinder/config.php on line 83
+[08-Apr-2018 09:20:10 America/Sao_Paulo] PHP Deprecated:  Directive 'register_globals' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[08-Apr-2018 09:20:10 America/Sao_Paulo] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[08-Apr-2018 09:20:10 America/Sao_Paulo] PHP Fatal error:  Call to undefined function resolveUrl() in /home/tematica/public_html/web/ckfinder/config.php on line 83
+[08-Apr-2018 09:20:12 America/Sao_Paulo] PHP Deprecated:  Directive 'register_globals' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[08-Apr-2018 09:20:12 America/Sao_Paulo] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[08-Apr-2018 09:20:12 America/Sao_Paulo] PHP Fatal error:  Call to undefined function resolveUrl() in /home/tematica/public_html/web/ckfinder/config.php on line 83
+[08-Apr-2018 09:20:14 America/Sao_Paulo] PHP Deprecated:  Directive 'register_globals' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[08-Apr-2018 09:20:14 America/Sao_Paulo] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[08-Apr-2018 09:20:14 America/Sao_Paulo] PHP Fatal error:  Call to undefined function resolveUrl() in /home/tematica/public_html/web/ckfinder/config.php on line 83
+[29-Aug-2018 06:02:57 America/Sao_Paulo] PHP Deprecated:  Directive 'register_globals' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[29-Aug-2018 06:02:57 America/Sao_Paulo] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[29-Aug-2018 06:02:57 America/Sao_Paulo] PHP Fatal error:  Call to undefined function resolveUrl() in /home/tematica/public_html/web/ckfinder/config.php on line 83
+[29-Aug-2018 06:03:03 America/Sao_Paulo] PHP Deprecated:  Directive 'register_globals' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[29-Aug-2018 06:03:03 America/Sao_Paulo] PHP Deprecated:  Directive 'register_long_arrays' is deprecated in PHP 5.3 and greater in Unknown on line 0

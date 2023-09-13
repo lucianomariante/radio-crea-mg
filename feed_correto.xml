@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+xmlns:content="http://purl.org/rss/1.0/modules/content/"
+xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:atom="http://www.w3.org/2005/Atom"
+xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+xmlns:media="http://search.yahoo.com/mrss/">
+	<channel>
+		<itunes:category text="Games &amp; Hobbies"/>
+		<itunes:category text="TV &amp; Film"/>
+		<itunes:category text="Society &amp; Culture"/>
+		<itunes:category text="Category"/>
+		<itunes:category text="Category"/>
+		<itunes:explicit>No</itunes:explicit>
+		<itunes:keywords>Telhacast, Podcast, entretenimento, diversão, informação</itunes:keywords>
+		<itunes:summary>Criado em 2011, o Telhacast é um podcast que aborda temas relacionados a musica, séries de TV, cinema, sociedade e cultura. Publicado semanalmente, o Telhacast visa divertir, informar e provocar reflexões. O Telhacast Podcast faz parte do portal Telhacast, um site que reúne o que há de melhor sobre podcast.</itunes:summary>
+		<itunes:subtitle>Diversão e Informação</itunes:subtitle>
+		<itunes:author>podcasts.agenciaradioweb.com.br</itunes:author>
+		<itunes:image href="http://podcasts.agenciaradioweb.com.br/extras/cozinhas.png"/>
+		<webMaster>contato@mundopodcast.com.br (Mundo Podcast)</webMaster>
+		<managingEditor>contato@mundopodcast.com.br (Mundo Podcast)</managingEditor>
+		<copyright>Copyright @ 2011-2014 Mundo Podcast</copyright>
+		<language>pt-br</language>
+		<title>Telhacast | Mundo Podcast</title>
+		<link>http://podcasts.agenciaradioweb.com.br/</link>
+		<description>Criado em 2011, o Telhacast é um podcast que aborda temas relacionados a musica, séries de TV, cinema, sociedade e cultura. Publicado semanalmente, o Telhacast visa divertir, informar e provocar reflexões. O Telhacast Podcast faz parte do portal Telhacast, um site que reúne o que há de melhor sobre podcast.</description>
+		<pubDate>Sun, 02 Sep 2012 00:01:00 -0300</pubDate>
+		<image>
+			<title>Telhacast | Mundo Podcast</title>
+			<link>http://podcasts.agenciaradioweb.com.br/</link>
+			<url>http://podcasts.agenciaradioweb.com.br/extras/cozinhas.png</url>
+		</image>
+		<item>
+			<author>Telhacast</author>
+			<title>Telhacast #65 - Trajetória: After Forever</title>
+			<description>Hoje Thiago (@thiagomiro), Vitor Hugo (Heavycast) e Kell Bonassoli (@kellbonassoli) contam, discutem e opinam sobre a trajetória de da banda considera um dos três pilares do metal holandês: After Forever.</description>
+			<link>http://podcasts.agenciaradioweb.com.br/</link>
+			<pubDate>Wed, 30 Jan 2013 20:00:00 -0300</pubDate>
+			<itunes:duration>1:03:04</itunes:duration>
+			<itunes:keywords>Telhacast, podcast, Trajetória, after forever, heavy metal, prison of desire, exordium, invisible circles, remagine, decipher, floor jansen</itunes:keywords>
+			<itunes:subtitle>Debate sobre a trajetória de uma das banda mais importantes do metal nórdico: After Forever.</itunes:subtitle>
+			<itunes:summary>Debate sobre a trajetória de uma das banda mais importantes do metal nórdico: After Forever.</itunes:summary>
+			<itunes:author>telhacast@mundopodcast.com.br</itunes:author>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:block>no</itunes:block>
+			<enclosure url="http://podcasts.agenciaradioweb.com.br/audios/190808092127181217113134Gotas_201_O_fluxo_do_dinheiro_em_sua_vida.mp3" length="45570169" type="audio/mpeg"/>
+		</item>
+	</channel>
+</rss>

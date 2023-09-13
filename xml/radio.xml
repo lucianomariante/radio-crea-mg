@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><Playlist CurrentTime="17/01/2022 16:05:10">
+<OnAir>
+<Break>
+<Id>Musical</Id>
+<Op>Radioweb</Op>
+<SchedTime>17/01/2022 16:05:00</SchedTime>
+<StartedTime>17/01/2022 16:05:10</StartedTime>
+<Type>M</Type>
+<InsCount>5</InsCount>
+<MusicCount>5</MusicCount>
+<Dur>00:20:49</Dur>
+<SchedEnd>17/01/2022 16:15:35</SchedEnd>
+<ShedPause/>
+</Break>
+<CurIns>
+<StartedTime>17/01/2022 16:05:10</StartedTime>
+<Id>MPB</Id>
+<Name>Bob Dylan - Saved</Name>
+<Type>1</Type>
+<Folder>MPB</Folder>
+<Filename>Bob Dylan - Saved.MP3</Filename>
+<Dur>3:55.3</Dur>
+<Intro/>
+<Bitrate>160</Bitrate>
+<ID3 Title="Saved" Subtitle="" Artist="Bob Dylan" Album="Saved" Track="2" Publisher="" Year="1980" Comment="" Language="" Genre="Gospel Rock" RingTone="" URLCover=""/>
+</CurIns>
+<CurMusic>
+<StartedTime>17/01/2022 16:05:10</StartedTime>
+<Id>MPB</Id>
+<Title>Saved</Title>
+<Subtitle/>
+<Artist>Bob Dylan</Artist>
+<Album>Saved</Album>
+<Track>2</Track>
+<Publisher/>
+<Year>1980</Year>
+<Comment/>
+<Language/>
+<Genre>Gospel Rock</Genre>
+<RingTone/>
+<URLCover/>
+</CurMusic>
+</OnAir>
+<Next>
+<NextIns>
+<Ins SchedTime="17/01/2022 16:08:57" Id="MPB" Type="1" Name="Hamilton de Holanda e André Mehmari - Fala De Paixao" Folder="MPB" Filename="Hamilton de Holanda e André Mehmari - Fala De Paixao.MP3" Dur="6:50.2" Intro="" Bitrate="160">
+<ID3 Title="Fala De Paixao" Subtitle="" Artist="Hamilton de Holanda e André Mehmari" Album="A Musica De Egberto &amp; Hermeto" Track="9/16" Publisher="" Year="2011" Comment="0" Language="" Genre="Alternative" RingTone="" URLCover=""/>
+</Ins>
+<Ins SchedTime="17/01/2022 16:15:35" Id="MPB" Type="1" Name="Bruno Mars - It Will Rain" Folder="MPB" Filename="Bruno Mars - It Will Rain.MP3" Dur="3:49.4" Intro="" Bitrate="256">
+<ID3 Title="It Will Rain" Subtitle="" Artist="Bruno Mars" Album="" Track="" Publisher="" Year="" Comment="" Language="" Genre="Blues" RingTone="" URLCover=""/>
+</Ins>
+<Ins SchedTime="17/01/2022 16:15:35" Id="MPB" Type="1" Name="Flávio Venturini - Tão Seu" Folder="MPB" Filename="Flávio Venturini - Tão Seu.MP3" Dur="3:54.5" Intro="" Bitrate="184">
+<ID3 Title="Tão Seu" Subtitle="" Artist="Flávio Venturini - " Album="Trem Azul" Track="5" Publisher="" Year="1998" Comment="Ripped by Winamp" Language="" Genre="Brazilian" RingTone="" URLCover=""/>
+</Ins>
+<Ins SchedTime="17/01/2022 16:15:35" Id="MPB" Type="1" Name="Paralamas do Sucesso - Outra Beleza" Folder="MPB" Filename="Paralamas do Sucesso - Outra Beleza.MP3" Dur="3:03.1" Intro="" Bitrate="160">
+<ID3 Title="Outra Beleza" Subtitle="" Artist="Os Paralamas Do Sucesso" Album="9 Luas" Track="2/12" Publisher="" Year="1996" Comment="0" Language="" Genre="Latin" RingTone="" URLCover=""/>
+</Ins>
+<Ins SchedTime="17/01/2022 16:15:35" Id="" Type="3" Name="" Filename="" Dur="0.0" Intro="" Bitrate="0">
+<ID3 Title="" Subtitle="" Artist="" Album="" Track="" Publisher="" Year="" Comment="" Language="" Genre="" RingTone="" URLCover=""/>
+</Ins>
+</NextIns>
+<NextMusic>
+<Music SchedTime="17/01/2022 16:08:57" Id="MPB" Title="Hamilton de Holanda e André Mehmari - Fala De Paixao" Dur="6:50.2" Intro="">
+<Title>Fala De Paixao</Title>
+<Subtitle/>
+<Artist>Hamilton de Holanda e André Mehmari</Artist>
+<Album>A Musica De Egberto &amp; Hermeto</Album>
+<Track>9/16</Track>
+<Publisher/>
+<Year>2011</Year>
+<Comment>0</Comment>
+<Language/>
+<Genre>Alternative</Genre>
+<RingTone/>
+<URLCover/>
+</Music>
+<Music SchedTime="17/01/2022 16:15:35" Id="MPB" Title="The Rolling Stones - Midnight Rambler [Live]" Dur="11:23.3" Intro="">
+<Title>Midnight Rambler [Live]</Title>
+<Subtitle/>
+<Artist>The Rolling Stones</Artist>
+<Album>Sticky Fingers [Bonus Disc]</Album>
+<Track>9/10</Track>
+<Publisher/>
+<Year>2015</Year>
+<Comment>0</Comment>
+<Language/>
+<Genre>Rock</Genre>
+<RingTone/>
+<URLCover/>
+</Music>
+<Music SchedTime="17/01/2022 16:26:52" Id="MPB" Title="Skank - Ali" Dur="5:00.6" Intro="">
+<Title>Ali</Title>
+<Subtitle/>
+<Artist>Skank</Artist>
+<Album>MTV Ao Vivo: Ouro Preto</Album>
+<Track>15</Track>
+<Publisher>Sony International</Publisher>
+<Year>2002</Year>
+<Comment/>
+<Language/>
+<Genre>Latin</Genre>
+<RingTone/>
+<URLCover/>
+</Music>
+<Music SchedTime="17/01/2022 16:33:29" Id="MPB" Title="Benjamin Gibbard - Teardrop Windows" Dur="2:44.5" Intro="">
+<Title>Teardrop Windows</Title>
+<Subtitle/>
+<Artist>Benjamin Gibbard</Artist>
+<Album>Former Lives</Album>
+<Track>3</Track>
+<Publisher/>
+<Year>2012</Year>
+<Comment>http://exystence.net/</Comment>
+<Language/>
+<Genre>Alternative</Genre>
+<RingTone/>
+<URLCover/>
+</Music>
+<Music SchedTime="17/01/2022 16:36:10" Id="MPB" Title="Matheus Von Kruger - Sabe" Dur="2:07.8" Intro="">
+<Title>Sabe?</Title>
+<Subtitle/>
+<Artist>Matheus Von Kruger</Artist>
+<Album>Vagalume</Album>
+<Track>5/10</Track>
+<Publisher/>
+<Year>2014</Year>
+<Comment>0</Comment>
+<Language/>
+<Genre>Jazz</Genre>
+<RingTone/>
+<URLCover/>
+</Music>
+</NextMusic>
+</Next>
+</Playlist>

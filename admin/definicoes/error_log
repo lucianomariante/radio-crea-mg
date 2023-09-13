@@ -1,0 +1,41 @@
+[21-Aug-2019 18:00:46 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/radioweb/public_html/creaminas2/admin/definicoes/alt.php:127
+Stack trace:
+#0 {main}
+  thrown in /home/radioweb/public_html/creaminas2/admin/definicoes/alt.php on line 127
+[21-Aug-2019 18:16:30 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/radioweb/public_html/creaminas2/admin/definicoes/alt.php:127
+Stack trace:
+#0 {main}
+  thrown in /home/radioweb/public_html/creaminas2/admin/definicoes/alt.php on line 127
+[29-Aug-2019 16:44:40 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/radioweb/public_html/creaminas7/admin/definicoes/alt.php:131
+Stack trace:
+#0 {main}
+  thrown in /home/radioweb/public_html/creaminas7/admin/definicoes/alt.php on line 131
+[29-Aug-2019 16:44:50 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/radioweb/public_html/creaminas7/admin/definicoes/alt.php:131
+Stack trace:
+#0 {main}
+  thrown in /home/radioweb/public_html/creaminas7/admin/definicoes/alt.php on line 131
+[29-Aug-2019 16:45:00 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/radioweb/public_html/creaminas7/admin/definicoes/alt.php:131
+Stack trace:
+#0 {main}
+  thrown in /home/radioweb/public_html/creaminas7/admin/definicoes/alt.php on line 131
+[29-Aug-2019 16:45:20 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/radioweb/public_html/creaminas7/admin/definicoes/alt.php:131
+Stack trace:
+#0 {main}
+  thrown in /home/radioweb/public_html/creaminas7/admin/definicoes/alt.php on line 131
+[29-Aug-2019 16:52:48 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/radioweb/public_html/creaminas7/admin/definicoes/alt.php:131
+Stack trace:
+#0 {main}
+  thrown in /home/radioweb/public_html/creaminas7/admin/definicoes/alt.php on line 131
+[29-Aug-2019 16:53:59 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/radioweb/public_html/creaminas7/admin/definicoes/alt.php:131
+Stack trace:
+#0 {main}
+  thrown in /home/radioweb/public_html/creaminas7/admin/definicoes/alt.php on line 131
+[29-Aug-2019 16:54:34 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/radioweb/public_html/creaminas7/admin/definicoes/alt.php:131
+Stack trace:
+#0 {main}
+  thrown in /home/radioweb/public_html/creaminas7/admin/definicoes/alt.php on line 131
+[29-Aug-2019 16:55:07 America/Sao_Paulo] PHP Warning:  Unterminated comment starting line 7 in /home/radioweb/public_html/creaminas7/admin/definicoes/alt.php on line 7
+[29-Aug-2019 16:55:44 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/radioweb/public_html/creaminas7/admin/definicoes/alt.php:131
+Stack trace:
+#0 {main}
+  thrown in /home/radioweb/public_html/creaminas7/admin/definicoes/alt.php on line 131

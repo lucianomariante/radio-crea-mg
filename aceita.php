@@ -1,0 +1,1 @@
+<? setcookie("aviso_legal", 'ok', time()+60*60*24*30); ?>

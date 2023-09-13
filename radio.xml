@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?><Playlist CurrentTime="20/03/2023 09:48:10">
+<OnAir>
+<Break>
+<Id>Musical</Id>
+<Op>radioweb</Op>
+<SchedTime>20/03/2023 09:48:00</SchedTime>
+<StartedTime>20/03/2023 09:48:10</StartedTime>
+<Type>M</Type>
+<InsCount>7</InsCount>
+<MusicCount>4</MusicCount>
+<Dur>00:15:00</Dur>
+<SchedEnd>20/03/2023 10:00:09</SchedEnd>
+<ShedPause/>
+</Break>
+<CurIns>
+<StartedTime>20/03/2023 09:48:10</StartedTime>
+<Id>HORA</Id>
+<Name>HoraMasculina</Name>
+<Type>4</Type>
+<Folder>HoraMasculina</Folder>
+<Filename>HoraMasculina</Filename>
+<Dur>1.8</Dur>
+<Intro/>
+<Bitrate>64</Bitrate>
+<ID3 Title="HoraMasculina" Subtitle="" Artist="" Album="" Track="" Publisher="" Year="" Comment="" Language="" Genre="" RingTone="" URLCover=""/>
+</CurIns>
+<CurMusic>
+<StartedTime/>
+<Id/>
+<Title/>
+<Subtitle/>
+<Artist/>
+<Album/>
+<Track/>
+<Publisher/>
+<Year/>
+<Comment/>
+<Language/>
+<Genre/>
+<RingTone/>
+<URLComm/>
+</CurMusic>
+</OnAir>
+<Next>
+<NextIns>
+<Ins SchedTime="20/03/2023 09:48:11" Id="REG" Type="1" Name="Skank - Algo Parecido" Folder="REGIONAIS" Filename="Skank - Algo Parecido.MP3" Dur="3:42.6" Intro="" Bitrate="256">
+<ID3 Title="Algo Parecido" Subtitle="" Artist="Skank" Album="" Track="" Publisher="" Year="" Comment="" Language="" Genre="" RingTone="" URLCover=""/>
+</Ins>
+<Ins SchedTime="20/03/2023 09:51:47" Id="VIN" Type="2" Name="01 - PREFIXO COMPLETA" Folder="Vinhetas" Filename="01 - PREFIXO COMPLETA.MP3" Dur="25.4" Intro="" Bitrate="320">
+<ID3 Title="PREFIXO COMPLETA" Subtitle="" Artist="01" Album="" Track="" Publisher="" Year="" Comment="" Language="" Genre="" RingTone="" URLCover=""/>
+</Ins>
+<Ins SchedTime="20/03/2023 09:52:02" Id="REG" Type="1" Name="Ana Carolina - Evidências" Folder="REGIONAIS" Filename="Ana Carolina - Evidências.MP3" Dur="3:04.6" Intro="" Bitrate="128">
+<ID3 Title="Evidências" Subtitle="" Artist="Ana Carolina" Album="" Track="" Publisher="" Year="" Comment="" Language="" Genre="" RingTone="" URLCover=""/>
+</Ins>
+<Ins SchedTime="20/03/2023 09:55:05" Id="REG" Type="1" Name="Jota Quest - Fácil" Folder="REGIONAIS" Filename="Jota Quest - Fácil.MP3" Dur="5:11.5" Intro="" Bitrate="256">
+<ID3 Title="Fácil" Subtitle="" Artist="Jota Quest" Album="" Track="" Publisher="" Year="" Comment="" Language="" Genre="Blues" RingTone="" URLCover=""/>
+</Ins>
+<Ins SchedTime="20/03/2023 10:00:09" Id="VIN" Type="2" Name="02 - PREFIXO CURTA_fem" Folder="Vinhetas" Filename="02 - PREFIXO CURTA_fem.MP3" Dur="6.5" Intro="" Bitrate="320">
+<ID3 Title="PREFIXO CURTA_fem" Subtitle="" Artist="02" Album="" Track="" Publisher="" Year="" Comment="" Language="" Genre="" RingTone="" URLCover=""/>
+</Ins>
+</NextIns>
+<NextMusic>
+<Music SchedTime="20/03/2023 09:48:11" Id="REG" Title="Skank - Algo Parecido" Dur="3:42.6" Intro="">
+<Title>Algo Parecido</Title>
+<Subtitle/>
+<Artist>Skank</Artist>
+<Album/>
+<Track/>
+<Publisher/>
+<Year/>
+<Comment/>
+<Language/>
+<Genre/>
+<RingTone/>
+<URLCover/>
+</Music>
+<Music SchedTime="20/03/2023 09:52:02" Id="REG" Title="Ana Carolina - Evidências" Dur="3:04.6" Intro="">
+<Title>Evidências</Title>
+<Subtitle/>
+<Artist>Ana Carolina</Artist>
+<Album/>
+<Track/>
+<Publisher/>
+<Year/>
+<Comment/>
+<Language/>
+<Genre/>
+<RingTone/>
+<URLCover/>
+</Music>
+<Music SchedTime="20/03/2023 09:55:05" Id="REG" Title="Jota Quest - Fácil" Dur="5:11.5" Intro="">
+<Title>Fácil</Title>
+<Subtitle/>
+<Artist>Jota Quest</Artist>
+<Album/>
+<Track/>
+<Publisher/>
+<Year/>
+<Comment/>
+<Language/>
+<Genre>Blues</Genre>
+<RingTone/>
+<URLCover/>
+</Music>
+<Music SchedTime="20/03/2023 10:01:59" Id="FLASH" Title="Stevie Wonder - Superstition" Dur="3:58.5" Intro="">
+<Title>Superstition</Title>
+<Subtitle/>
+<Artist>Stevie Wonder</Artist>
+<Album>The Very Best Of</Album>
+<Track/>
+<Publisher/>
+<Year>2002</Year>
+<Comment>Black1000</Comment>
+<Language/>
+<Genre/>
+<RingTone/>
+<URLCover/>
+</Music>
+<Music SchedTime="20/03/2023 10:05:59" Id="POPROCK" Title="The Byrds - Turn Turn Turn" Dur="3:48.2" Intro="">
+<Title>The Byrds - Turn Turn Turn</Title>
+<Subtitle/>
+<Artist>Vários</Artist>
+<Album>Forrest Gump The Soundtrack - Disc Two</Album>
+<Track/>
+<Publisher/>
+<Year>1994</Year>
+<Comment/>
+<Language/>
+<Genre>Other</Genre>
+<RingTone/>
+<URLCover/>
+</Music>
+</NextMusic>
+</Next>
+</Playlist>

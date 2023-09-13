@@ -1,0 +1,54 @@
+[27-Aug-2019 20:12:15 America/Sao_Paulo] PHP Notice:  Undefined variable: audio in /home/radioweb/public_html/creaminas7/admin/noticias/insert.php on line 45
+[27-Aug-2019 20:12:15 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/radioweb/public_html/creaminas7/admin/noticias/insert.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/radioweb/public_html/creaminas7/admin/noticias/insert.php on line 50
+[05-Sep-2019 13:12:30 America/Sao_Paulo] PHP Warning:  chmod(): No such file or directory in /home/radioweb/public_html/podcasts/admin/noticias/alt.php on line 46
+[05-Sep-2019 13:12:30 America/Sao_Paulo] PHP Warning:  unlink(../../audios/): Is a directory in /home/radioweb/public_html/podcasts/admin/noticias/alt.php on line 47
+[06-Sep-2019 10:57:23 America/Sao_Paulo] PHP Warning:  file_get_contents(): Filename cannot be empty in /home/radioweb/public_html/podcasts/drive/upload_files.php on line 20
+[06-Sep-2019 10:57:25 America/Sao_Paulo] PHP Warning:  chmod(): No such file or directory in /home/radioweb/public_html/podcasts/admin/noticias/alt.php on line 46
+[06-Sep-2019 10:57:25 America/Sao_Paulo] PHP Warning:  unlink(../../audios/): Is a directory in /home/radioweb/public_html/podcasts/admin/noticias/alt.php on line 47
+[09-Sep-2019 10:06:47 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/radioweb/public_html/podcasts/admin/noticias/delete.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/radioweb/public_html/podcasts/admin/noticias/delete.php on line 19
+[12-Sep-2019 16:26:11 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/radiopuma/public_html/radio/admin/noticias/delete.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/radiopuma/public_html/radio/admin/noticias/delete.php on line 19
+[12-Sep-2019 16:26:12 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/radiopuma/public_html/radio/admin/noticias/delete.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/radiopuma/public_html/radio/admin/noticias/delete.php on line 19
+[12-Sep-2019 16:26:15 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/radiopuma/public_html/radio/admin/noticias/delete.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/radiopuma/public_html/radio/admin/noticias/delete.php on line 19
+[12-Sep-2019 16:26:16 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/radiopuma/public_html/radio/admin/noticias/delete.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/radiopuma/public_html/radio/admin/noticias/delete.php on line 19
+[12-Sep-2019 16:26:20 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/radiopuma/public_html/radio/admin/noticias/delete.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/radiopuma/public_html/radio/admin/noticias/delete.php on line 19
+[12-Sep-2019 16:26:21 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/radiopuma/public_html/radio/admin/noticias/delete.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/radiopuma/public_html/radio/admin/noticias/delete.php on line 19
+[12-Sep-2019 16:26:24 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/radiopuma/public_html/radio/admin/noticias/delete.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/radiopuma/public_html/radio/admin/noticias/delete.php on line 19
+[12-Sep-2019 16:26:25 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/radiopuma/public_html/radio/admin/noticias/delete.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/radiopuma/public_html/radio/admin/noticias/delete.php on line 19
+[12-Sep-2019 16:26:30 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/radiopuma/public_html/radio/admin/noticias/delete.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/radiopuma/public_html/radio/admin/noticias/delete.php on line 19
+[12-Sep-2019 16:47:59 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/radiopuma/public_html/radio/admin/noticias/delete.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/radiopuma/public_html/radio/admin/noticias/delete.php on line 19

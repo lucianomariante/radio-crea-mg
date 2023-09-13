@@ -1,0 +1,18 @@
+<Files *.mp3>
+  ForceType audio/mpeg
+  Header set Content-Disposition inline
+</Files>
+
+
+
+RewriteRule ^(.*).mp3/?$ materias.php?id=$1 [NC,L]
+
+RewriteRule ^(.*)/(.*)/?$ materias.php?idnum=$1 [NC,L]
+
+RewriteRule ^(.*).wma/?$ materias.php?id=$1 [NC,L]
+
+RewriteRule ^(.*).ogg/?$ materias.php?id=$1 [NC,L]
+
+RewriteRule ^(.*)-(.*)-(.*).gh3/?$ materias_gh3.php?id=$1&pasta=$2&gravacao=$3 [NC,L]
+
+

@@ -1,0 +1,59 @@
+<!doctype html>
+<html>
+<head><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="Content-Language" content="pt-br">
+<title>Rádio OAB/RS</title>
+<script src="js/jquery.js"></script>
+<script src='https://www.google.com/recaptcha/api.js'></script>
+<script type="text/javascript">
+
+function enviar_dados() { //v4.0
+
+// Assign handlers immediately after making the request,
+// and remember the jqXHR object for this request
+var jqxhr = $.post( "testex.php", $( "#form_comentario" ).serialize()).done(function(data) { alert(data); }).fail(function(data) { alert('erro'); });
+	
+	
+    
+}
+
+
+
+</script>
+</head>
+<body class="container">
+
+
+   
+
+	
+    
+<form id="form_comentario">
+    
+    	<div id="form_conteiner">
+    		<div>
+	  			<label for="nome">Nome:</label>
+        		<input name="nome" type="text" id="nome" size="24" maxlength="200"/>
+		
+        		<label for="email">E-mail:</label> 
+				<input name="email" id="email" type="text" size="24" maxlength="200"/>
+        
+									
+				        
+    		</div>
+    		<div>    
+				<label for="mensagem">Mensagem:</label>
+            	<textarea name="comentario" cols="25" wrap="soft" id="comentario"></textarea>
+    		</div>
+        </div>
+        
+<input type="submit" class="g-recaptcha" id="envia_comentario" name="envia_comentario" data-sitekey="6LcfgXwUAAAAAIDxXl1DfuxR1myj1wqKOYTDi1Pp" data-callback='enviar_dados'>
+        
+  </form>
+   
+
+
+
+
+</body>
+</html>

@@ -1,0 +1,10 @@
+
+RewriteEngine On    # Turn on the rewriting engine
+RewriteRule    ^not/([0-9]+)/(.*)?$    facebook.php?id=$1 [NC,L]
+RewriteRule    ^not/([0-9]+)?$    facebook.php?id=$1 [NC,L]
+RewriteRule    ^radio.?$    /facebook.php [NC,L]
+RewriteRule    ^admin.?$    admin/index.php [NC,L]
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)$ http://%{HTTP_HOST}/index.php

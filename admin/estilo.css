@@ -1,0 +1,207 @@
+/* CSS Document */
+body {
+	font-family:arial;
+	font-size:12px;	
+}
+
+table {
+	border:1px solid #7E7E7E;
+	padding:0px;
+    border-spacing: 0;
+    border-collapse: collapse;
+	font-family:arial;
+	font-size:12px;
+}
+
+table td {
+	border:1px solid #7E7E7E;
+	padding:5px;
+}
+
+table input {
+	border:1px solid #7E7E7E;
+	width:455px;
+	padding:5px;
+}
+
+table textarea {
+	border:1px solid #7E7E7E;
+	width:455px;
+	padding:5px;
+	height:100px;
+}
+
+table select {
+	border:1px solid #7E7E7E;
+	width:467px;
+	padding:5px;
+}
+
+
+table input[type="Submit"] {
+	border:1px solid #7E7E7E;
+	width:234px;
+	padding:5px;
+}
+
+table:first-child {
+	min-width:555px;
+}
+
+table tr:first-child {
+	background-color:#DBD0D0;
+	font-size:15px;
+}
+
+table tr:first-child td {
+	padding:5px;
+	height:20px;
+}
+
+table table:first-child {
+	min-width:245px;
+	font-size:12px;
+	border:none;
+	height:20px;
+	margin-top:5px;
+	margin-bottom:5px;
+}
+
+table table:last-child tr {
+	font-size:12px;
+	border:none;
+}
+
+table table:last-child td {
+	padding:5px;
+	width:10px;
+	background:#FFFFFF;
+	text-align:center;
+	height:10px;
+	color:#989898;
+}
+
+div:last-child {
+	text-align:center;
+	margin-top:15px;
+}
+
+td div:last-child {
+	text-align:center;
+	margin:0px;
+}
+
+a:link {
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: none;
+}
+a:active {
+	text-decoration: none;
+}
+
+.contador {
+	text-align:center;
+}
+
+.alterar {
+	text-align:center;
+}
+
+.deletar {	
+	text-align:center;
+}
+
+.aprovado {	
+	text-align:center;
+}
+
+.principais {	
+	text-align:center;
+}
+
+.item {	
+	text-align:center;
+	font-size:15px;
+}
+
+.lista { width:1000px; }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.cke_reset_all table:first-child {
+
+}
+
+.cke_reset_all table tr:first-child {
+
+}
+
+.cke_reset_all table tr:first-child td {
+	padding:5px;
+}
+
+.cke_reset_all table table:first-child {
+	margin-top:0px;
+	margin-bottom:0px;
+}
+
+table table:last-child tr {
+	font-size:12px;
+	border:none;
+}
+
+.cke_reset_all table table:last-child td {
+	padding:5px;
+	text-align:left;
+}
+
+.cke_reset_all div:last-child {
+	text-align:left;
+	margin-top:0px;
+}
+
+.cke_reset_all td div:last-child {
+	text-align:left;
+	margin:0px;
+}
